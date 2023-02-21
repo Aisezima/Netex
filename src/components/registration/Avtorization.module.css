@@ -1,0 +1,93 @@
+.title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #111111;
+    text-align: center;
+}
+.hr{
+    color: #CCCCCC;
+    border: 1px solid;
+}
+
+.backroundImg{
+    height: 447px;
+    width: 428;
+}
+
+form{
+    background-color: #F8F8FE;
+    height: 471px;
+    width: 428px;
+}
+
+form h1{
+    margin-left: 32px;
+    font-weight: 900;
+    font-size: 36px;
+    color: #0D121F;
+
+}
+
+form p{
+    margin-left: 32px; 
+    color: #636363;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.container label{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #0D121F;
+    margin-left: 32px;
+
+}
+
+.container input {
+    gap: 10px;
+    width: 364px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 12px;
+    margin-left: 32px;
+    font-size: 14px;
+}
+.forgetPassword{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px; 
+    color: #000000;
+    margin-left: 150px;
+    padding-top: 16px;
+
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    width: 364px;
+    margin-left: 32px;
+
+}
+.notAccount{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.registration{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #000000;
+
+}

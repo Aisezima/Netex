@@ -1,0 +1,28 @@
+
+.regisCont{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.regisCont label{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #0D121F;
+    margin-left: 32px;
+
+}
+
+.regisCont input{
+    gap: 10px;
+    width: 364px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 12px;
+    margin-left: 32px;
+    font-size: 14px;
+}
+
+
