@@ -3,6 +3,8 @@
 
 const ConfModal = () => {
     return(
-        <div></div>
+        <div>
+            
+        </div>
     )
 }
